@@ -1,6 +1,6 @@
 # atom-style
 
-<code>
+<pre>
 atom-text-editor {
   // color: white;
   // background-color: hsl(180, 24%, 12%);
@@ -11,4 +11,4 @@ atom-text-editor {
   .syntax--punctuation.syntax--section.syntax--embedded.syntax--end.syntax--php,
   .syntax--punctuation.syntax--section.syntax--embedded.syntax--end.syntax--php { color:#db3d32; }
 }
-</code>
+</pre>
